@@ -1,0 +1,24 @@
+{
+  "name": "@native-corner/react-corner-navigation",
+  "version": "0.1.0",
+  "description": "Corner Navigation for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/native-corner/react-corner-navigation.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "navigation"
+  ],
+  "author": "Sean Watters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/native-corner/react-corner-navigation/issues"
+  },
+  "homepage": "https://github.com/native-corner/react-corner-navigation#readme"
+}
